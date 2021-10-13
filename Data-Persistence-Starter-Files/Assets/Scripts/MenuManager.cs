@@ -31,7 +31,6 @@ public class MenuManager : MonoBehaviour
 
     public void PlayerName(string input)
     {
-        Debug.Log("test" + input);
         playerName = input;
     }
 
